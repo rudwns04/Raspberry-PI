@@ -1,3 +1,6 @@
-# Raspberry-PI
+# Intel AI EDGE S/W Academy(Raspberry PI Class)
 
-IntelEdge SW Academy - Raspberry PI Study
+### 기초적인 Raspberry-PI 수업 실습 내용
+
+
+# Raspberry-PI
